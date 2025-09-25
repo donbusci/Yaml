@@ -1,86 +1,152 @@
+# Kurz, klar, klickstark: Warum Social-Videos maximal knapp sein sollten – und wie man längere Inhalte clever verlinkt
 
-title: "Kurz, klar, klickstark: Warum Social-Videos maximal knapp sein sollten – und wie man längere Inhalte clever verlinkt"
+In Social-Feeds steigen Abschluss- und Wiedergaberaten, je kürzer das Video ist. Plattform-Guides empfehlen mehrheitlich **≤ 6–15 Sekunden** für Reichweite und Branding. Für TikTok und Reels funktionieren oft **~15–30 Sekunden**. Die Devise lautet: Kurze Teaser im Feed posten und auf der Website oder YouTube auf ein längeres Deep-Dive-Video verlinken. Das entspricht den Best Practices der Plattformen und reduziert Streuverluste.
 
-tl_dr: >
-  In Social-Feeds steigen Abschluss- und Wiedergaberaten, je kürzer das Video ist.
-  Plattform-Guides empfehlen mehrheitlich ≤ 6–15 Sekunden für Reichweite/Branding;
-  für TikTok/Reels funktionieren oft ~15–30 Sekunden.
-  Nutzt knappe Teaser im Feed und verlinkt zum längeren Deep-Dive auf eurer Website.
-  Das entspricht Plattform-Best Practices und reduziert Streuverlust.
+## Faktencheck: „Lieber maximal 10 Sekunden im Feed und das lange Video verlinken“ – stimmt das?
 
-faktencheck:
-  aussage: "Lieber maximal 10 Sekunden im Feed und das lange Video verlinken – stimmt das?"
-  bewertung: "Ja, im Kern – mit Nuancen je Plattform."
-  details:
-    - platform: "X (Twitter)"
-      empfehlung: "≤ 15 Sekunden für höhere Completion Rates"
-    - platform: "YouTube Bumper-Ads"
-      empfehlung: "6 Sekunden, nicht überspringbar"
-    - platform: "LinkedIn"
-      empfehlung: "15–30 Sekunden empfohlen"
-    - platform: "Instagram/Facebook"
-      empfehlung: "Reels 3–90 Sek., Botschaft in den ersten Sekunden"
-    - platform: "TikTok"
-      empfehlung: "21–34 Sekunden, kürzer funktioniert besser"
+Die Erfahrung zeigt, dass gerade in den Social-Media-Feeds die Aufmerksamkeitsspanne extrem kurz ist. Die Nutzer scrollen schnell und entscheiden innerhalb von Sekunden, ob sie ein Video anschauen oder weiterspringen. Darum lohnt es sich, Botschaften möglichst knapp und prägnant zu halten.
 
-spickzettel:
-  - "X (Twitter): Cap at 15 Sek."
-  - "YouTube: Bumper-Ads = 6 Sek."
-  - "LinkedIn: 15–30 Sek. empfohlen"
-  - "Instagram/Facebook Reels: 3–90 Sek., Hook sofort"
-  - "TikTok: 21–34 Sek., kürzer ist besser"
+Ein kurzer Überblick, was die Plattformen selbst empfehlen:
 
-warum_kuerze_wirkt: >
-  Mobile Feeds belohnen sofortige Relevanz und geringes Zeit-Commitment;
-  kurze Videos werden häufiger angefangen und beendet, was die Botschaftsdurchdringung steigert.
+*   **X (Twitter):** Videos sollten maximal 15 Sekunden dauern, um eine hohe Abschlussrate zu erreichen. Je kürzer, desto besser.
+    
+*   **YouTube:** Das Format „Bumper Ads“ ist auf 6 Sekunden beschränkt – und genau dieses Format wird von YouTube für Awareness-Kampagnen empfohlen.
+    
+*   **LinkedIn:** Obwohl bis zu 30 Minuten erlaubt sind, empfiehlt LinkedIn selbst eine Länge von **15–30 Sekunden**, um die Botschaft effizient zu transportieren.
+    
+*   **Instagram/Facebook:** Reels dürfen zwischen 3 und 90 Sekunden lang sein. Meta betont aber ausdrücklich, dass die Botschaft **in den ersten Sekunden** klar erkennbar sein muss.
+    
+*   **TikTok:** Offiziell gilt: „Shorter videos perform better“. Am besten funktionieren Clips zwischen 21 und 34 Sekunden.
+    
 
-content_architektur:
-  teaser_feed:
-    ziel: "Aufmerksamkeit & Klickimpuls"
-    laenge: "6–10 Sek. (Alternative bis 15 Sek.)"
-    struktur:
-      - "0–2 Sek.: Hook"
-      - "3–7 Sek.: Kernbotschaft"
-      - "8–10 Sek.: CTA/Link"
-  deep_dive:
-    ziel: "Verständnis & Überzeugung"
-    laenge: "1–3 Min."
-    hinweis: "Website oder YouTube; klare Handlungsaufforderung"
-  optional_reels_tiktok:
-    ziel: "Zusätzliche Reichweite"
-    laenge: "15–30 Sek."
-    hinweis: "Gleicher Hook, etwas mehr Kontext"
+**Fazit:**  
+Die Kernaussage stimmt – ein kurzer Clip im Feed, kombiniert mit einem Verweis auf ein längeres Video auf der Homepage, ist eine **strategisch saubere Lösung**. Wer auf Nummer sicher gehen will, produziert am besten zwei Varianten: einen **Ultra-Kurzclip (6–10 Sekunden)** für Aufmerksamkeit und eine **mittellange Version (15–30 Sekunden)** für TikTok und Reels.
 
-gestaltungs_checkliste:
-  - "Hook in <3 Sek."
-  - "Nur eine Botschaft pro Video"
-  - "Frühe Kennzeichnung (Logo/Absender sichtbar)"
-  - "Format: Hochformat 9:16 für Reels/TikTok/Shorts"
-  - "Klare CTA/Direction"
+## Warum Kürze wirkt
 
-messung:
-  kernmetriken:
-    - "View-Through-Rate / Completion Rate"
-    - "Klickrate zum Deep-Dive"
-    - "Verweildauer auf Zielseite"
-  ab_tests:
-    varianten: ["6–10 Sek.", "≤15 Sek.", "15–30 Sek."]
+*   **Mobile Nutzung:** Die meisten Social-Videos werden mobil konsumiert. Niemand will lange warten – kurze Videos sind schneller „durchgeschaut“.
+    
+*   **Abschlussraten:** Studien zeigen, dass die Completion Rate (wie viele das Video bis zum Ende sehen) deutlich steigt, je kürzer der Clip ist.
+    
+*   **Botschaftsdurchdringung:** Eine einzige klare Aussage bleibt besser hängen als ein Video voller Details.
+    
+*   **Algorithmus:** Plattformen belohnen Inhalte, die vollständig angesehen werden. Kurze Clips erhöhen die Wahrscheinlichkeit dafür und damit auch die Reichweite.
+    
 
-haeufige_fehler:
-  - "Zu viele Punkte in ein kurzes Video pressen"
-  - "Später Einstieg, verschenkte erste Sekunden"
-  - "Kein CTA/Link"
+## Empfohlene Content-Architektur
 
-praktischer_handzettel:
-  feed_teaser: "6–10 Sek., Hook sofort, eine Aussage, CTA+Link"
-  reels_tiktok: "15–30 Sek., gleicher Hook, etwas mehr Kontext"
-  deep_dive: "1–3 Min. auf Website/YouTube, mit Link/CTA"
+### 1\. Ultra-Kurzer Teaser im Feed
 
-quellen:
-  - "X (Twitter) Best Practices – 15 Sek."
-  - "YouTube Bumper-Ads – 6 Sek."
-  - "LinkedIn Video Ads – 15–30 Sek."
-  - "Meta/Instagram Reels – 3–90 Sek."
-  - "TikTok Business – 21–34 Sek., kürzer besser"
-  - "MarketingCharts/Innovid – Kürzer → höhere Completion Rates"
-  - "Think with Google / YouTube ABCD-Framework"
+*   **Ziel:** Aufmerksamkeit und Klickimpuls.
+    
+*   **Länge:** 6–10 Sekunden (maximal 15 Sekunden).
+    
+*   **Aufbau:**
+    
+    *   0–2 Sek.: Starker Hook (Bild, Ton, Text).
+        
+    *   3–7 Sek.: Kernbotschaft (eine klare Aussage).
+        
+    *   8–10 Sek.: Call-to-Action („Mehr erfahren auf unserer Website“).
+        
+
+### 2\. Deep-Dive auf Website oder YouTube
+
+*   **Ziel:** Detaillierte Information und Überzeugung.
+    
+*   **Länge:** 1–3 Minuten.
+    
+*   **Inhalt:** Hier können alle Argumente, Zahlen, Quellen oder auch persönliche Statements untergebracht werden.
+    
+*   **Technik:** Den Teaser im Feed unbedingt mit einem **klaren Link oder Button** zur Website versehen.
+    
+
+### 3\. Mittel-Cut für Reels und TikTok
+
+*   **Ziel:** Reichweite in diesen speziellen Formaten.
+    
+*   **Länge:** 15–30 Sekunden.
+    
+*   **Aufbau:** Gleicher Hook wie beim Teaser, aber mit etwas mehr Kontext und Erklärungen.
+    
+
+## Checkliste für die Gestaltung kurzer Social-Videos
+
+*   **Hook in <3 Sekunden:** Der erste Frame entscheidet.
+    
+*   **Eine Botschaft pro Video:** Keine Überfrachtung.
+    
+*   **Frühe Kennzeichnung:** Logo oder Absender früh sichtbar, aber unaufdringlich.
+    
+*   **Hochformat 9:16:** Standard für Reels, TikTok und Shorts.
+    
+*   **Klare Call-to-Action:** Immer einen nächsten Schritt anbieten („Zur Website“, „Mehr erfahren“, „Zum Video“).
+    
+
+## Erfolgsmessung und Optimierung
+
+*   **Kernmetriken:**
+    
+    *   Completion Rate (wie viele schauen das Video bis zum Ende)
+        
+    *   Klickrate zum langen Video oder zur Website
+        
+    *   Verweildauer auf der Zielseite
+        
+*   **A/B-Tests:**
+    
+    *   6–10 Sekunden vs. 15 Sekunden vs. 30 Sekunden vergleichen.
+        
+    *   Verschiedene Hooks testen (Text vs. Bild vs. Emotion).
+        
+
+## Häufige Fehler
+
+*   Zu viele Inhalte in einen kurzen Clip gepackt.
+    
+*   Später Einstieg – die ersten Sekunden bleiben ungenutzt.
+    
+*   Kein klarer Link oder Call-to-Action.
+    
+
+## Praktischer Handzettel (für Kandidaten)
+
+*   **Feed-Teaser:** 6–10 Sekunden, eine klare Botschaft, sofortiger Hook, Link am Schluss.
+    
+*   **Reels/TikTok-Variante:** 15–30 Sekunden, gleicher Hook, etwas mehr Kontext.
+    
+*   **Deep-Dive:** 1–3 Minuten auf Website oder YouTube, mit allen Details.
+    
+
+## Quellen
+
+*   Twitter/X Best Practices (max. 15 Sekunden empfohlen).
+    
+*   YouTube Ads (Bumper Ads = 6 Sekunden).
+    
+*   LinkedIn Help (Video Ads empfohlen 15–30 Sekunden).
+    
+*   Meta/Instagram Spezifikationen für Reels (3–90 Sekunden).
+    
+*   TikTok Business (Shorter videos perform better, 21–34 Sek. empfohlen).
+    
+*   Studien zur Video Completion Rate (kürzer = höhere Abschlussraten).
+    
+*   Think with Google (ABCD Framework: Attention, Branding, Connection, Direction).
+    
+
+### Fazit
+
+Für Social Media gilt die einfache Regel: **Mehr ist weniger.**  
+Kurze, knackige Botschaften im Feed ziehen Aufmerksamkeit und erhöhen die Chance, dass die Inhalte vollständig gesehen werden. Wer mehr erzählen will, verlinkt gezielt auf die Website oder YouTube – dort ist Raum für Details, Storytelling und tiefere Argumente.
+
+**Die Empfehlung lautet daher:**
+
+*   **Teaser:** maximal 10 Sekunden.
+    
+*   **Erklärungsvideo:** auf Website/YouTube.
+    
+*   **Optional:** 15–30 Sekunden für TikTok und Reels.
+    
+
+So verbindet ihr Reichweite, Aufmerksamkeit und inhaltliche Tiefe optimal.
