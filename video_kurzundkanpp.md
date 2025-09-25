@@ -1,3 +1,8 @@
+---
+title: Why I Love Tailwind
+date: 2025-09-25
+author: Patrik
+---
 # Kurz, klar, klickstark: Warum Social-Videos maximal knapp sein sollten – und wie man längere Inhalte clever verlinkt
 
 In Social-Feeds steigen Abschluss- und Wiedergaberaten, je kürzer das Video ist. Plattform-Guides empfehlen mehrheitlich **≤ 6–15 Sekunden** für Reichweite und Branding. Für TikTok und Reels funktionieren oft **~15–30 Sekunden**. Die Devise lautet: Kurze Teaser im Feed posten und auf der Website oder YouTube auf ein längeres Deep-Dive-Video verlinken. Das entspricht den Best Practices der Plattformen und reduziert Streuverluste.
