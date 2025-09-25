@@ -1,5 +1,5 @@
 ---
-title: Why I Love Tailwind
+title: Warum Social-Videos maximal knapp sein sollten
 date: 2025-09-25
 author: Patrik
 ---
