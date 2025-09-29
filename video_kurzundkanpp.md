@@ -125,19 +125,17 @@ Die Kernaussage stimmt – ein kurzer Clip im Feed, kombiniert mit einem Verweis
 
 ## Quellen
 
-*   Twitter/X Best Practices (max. 15 Sekunden empfohlen).
+*   [SproutSocial – Video Length Best Practices (X/Twitter, Facebook, Instagram)](https://sproutsocial.com/insights/video-length-best-practices/?utm_source=chatgpt.com)
     
-*   YouTube Ads (Bumper Ads = 6 Sekunden).
+*   [QuickFrame – Twitter Video Ad Specs](https://quickframe.com/blog/twitter-video-ad-specs/?utm_source=chatgpt.com)
     
-*   LinkedIn Help (Video Ads empfohlen 15–30 Sekunden).
+*   [SetupAd – YouTube Ad Formats Guide](https://setupad.com/blog/youtube-ad-formats-guide/?utm_source=chatgpt.com)
     
-*   Meta/Instagram Spezifikationen für Reels (3–90 Sekunden).
+*   [ClickGuard – YouTube Ad Formate](https://www.clickguard.com/blog/the-best-youtube-ad-formats/?utm_source=chatgpt.com)
     
-*   TikTok Business (Shorter videos perform better, 21–34 Sek. empfohlen).
+*   [SproutSocial – Social Media Video Specs Guide (LinkedIn, Instagram, Facebook)](https://sproutsocial.com/insights/social-media-video-specs-guide/?utm_source=chatgpt.com)
     
-*   Studien zur Video Completion Rate (kürzer = höhere Abschlussraten).
-    
-*   Think with Google (ABCD Framework: Attention, Branding, Connection, Direction).
+*   [QuickFrame – Social Media Video Ad Specs & Placements (TikTok)](https://quickframe.com/blog/social-media-video-ad-specs-placements-guide/?utm_source=chatgpt.com)
     
 
 ### Fazit
